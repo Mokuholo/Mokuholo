@@ -14,17 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-**`Digital Craftsman (Developer/Creator)`**
+**`Binary Alchemist (Developer/Creator)`**
 
-I am an autonomous full-stack developer and content creator, devoted to crafting my very own digital kingdom, one step at a time. Every coding project I embark on is meticulously built from the ground up, beginning with thoughtful planning and design, and concluding with the elegant resolution of real-world dilemmas through the power of code. My video content creation follows a similar process, with each idea carefully cultivated and planned before reaching its final form, adorned with artistic touches.
+I am an autonomous full-stack developer and content creator, devoted to crafting my very own digital kingdom, one line at a time. Every coding project I embark on is meticulously built from the ground up, beginning with thoughtful planning and design, and concluding with the elegant resolution of real-world dilemmas through the power of code. My video content creation follows a similar process, with each idea carefully cultivated and planned before reaching its final form, adorned with artistic touches.
 
 
-<!-- I publish that content on my YouTube channel "[][youtube]".
+<!-- I publish that content on my YouTube channel "[-name-here-][youtube]".
 
    <p align="left">
-      <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
+      <a href="https://www.youtube.com/c/-name-here-?sub_confirmation=1">
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-      <a href="https://www.youtube.com/c/fknight">
+      <a href="https://www.youtube.com/c/-name-here-">
          <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
       <a href="[(https://github.com/Mokuholo?tab=followers)]">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
