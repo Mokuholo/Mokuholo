@@ -58,15 +58,6 @@ I am an autonomous full-stack developer and content creator, devoted to crafting
 
 #
 
-### 📺 Latest YouTube Videos
-
-<!-- BEGIN YOUTUBE-CARDS -->
-
-
-<!-- END YOUTUBE-CARDS -->
-
-#
-
 ### 📊 Stats
 
 ![Mokuholo's GitHub stats](https://github-readme-stats.vercel.app/api?username=mokuholo&show_icons=true&theme=gruvbox)
